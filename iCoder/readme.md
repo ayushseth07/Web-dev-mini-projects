@@ -1,5 +1,5 @@
 # Welcome 🖐 to iCoder.
-It is a simple and resonsive Website made using bootstrap.
+It is a simple and responsive Website made using bootstrap.
 
 ## Desktop View
 ![Default View](img/desktop1.png)
